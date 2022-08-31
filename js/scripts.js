@@ -58,7 +58,7 @@ function numberOfOccurrencesInText(word, text) {
     }
   }
  
- 
+ //unimportant text
  
  
   //textArray.forEach.toLowerCase().includes(badWord.toLowerCase()) {
